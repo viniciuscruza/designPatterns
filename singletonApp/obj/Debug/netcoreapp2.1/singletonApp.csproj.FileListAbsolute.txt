@@ -1,0 +1,11 @@
+C:\estudos\designPatterns\singletonApp\obj\Debug\netcoreapp2.1\singletonApp.csprojAssemblyReference.cache
+C:\estudos\designPatterns\singletonApp\obj\Debug\netcoreapp2.1\singletonApp.csproj.CoreCompileInputs.cache
+C:\estudos\designPatterns\singletonApp\obj\Debug\netcoreapp2.1\singletonApp.AssemblyInfoInputs.cache
+C:\estudos\designPatterns\singletonApp\obj\Debug\netcoreapp2.1\singletonApp.AssemblyInfo.cs
+C:\estudos\designPatterns\singletonApp\bin\Debug\netcoreapp2.1\singletonApp.deps.json
+C:\estudos\designPatterns\singletonApp\bin\Debug\netcoreapp2.1\singletonApp.runtimeconfig.json
+C:\estudos\designPatterns\singletonApp\bin\Debug\netcoreapp2.1\singletonApp.runtimeconfig.dev.json
+C:\estudos\designPatterns\singletonApp\bin\Debug\netcoreapp2.1\singletonApp.dll
+C:\estudos\designPatterns\singletonApp\bin\Debug\netcoreapp2.1\singletonApp.pdb
+C:\estudos\designPatterns\singletonApp\obj\Debug\netcoreapp2.1\singletonApp.dll
+C:\estudos\designPatterns\singletonApp\obj\Debug\netcoreapp2.1\singletonApp.pdb
