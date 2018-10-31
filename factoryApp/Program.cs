@@ -11,6 +11,7 @@ namespace factoryApp
 
             IBot t = BotFactory.createBot(BotType.T);
             Console.WriteLine("Bot T: " + t.getSide());
+
         }
     }
 }

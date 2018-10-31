@@ -1,0 +1,11 @@
+C:\estudos\designPatterns\adapterApp\obj\Debug\netcoreapp2.1\adapterApp.csprojAssemblyReference.cache
+C:\estudos\designPatterns\adapterApp\obj\Debug\netcoreapp2.1\adapterApp.csproj.CoreCompileInputs.cache
+C:\estudos\designPatterns\adapterApp\obj\Debug\netcoreapp2.1\adapterApp.AssemblyInfoInputs.cache
+C:\estudos\designPatterns\adapterApp\obj\Debug\netcoreapp2.1\adapterApp.AssemblyInfo.cs
+C:\estudos\designPatterns\adapterApp\bin\Debug\netcoreapp2.1\adapterApp.deps.json
+C:\estudos\designPatterns\adapterApp\bin\Debug\netcoreapp2.1\adapterApp.runtimeconfig.json
+C:\estudos\designPatterns\adapterApp\bin\Debug\netcoreapp2.1\adapterApp.runtimeconfig.dev.json
+C:\estudos\designPatterns\adapterApp\bin\Debug\netcoreapp2.1\adapterApp.dll
+C:\estudos\designPatterns\adapterApp\bin\Debug\netcoreapp2.1\adapterApp.pdb
+C:\estudos\designPatterns\adapterApp\obj\Debug\netcoreapp2.1\adapterApp.dll
+C:\estudos\designPatterns\adapterApp\obj\Debug\netcoreapp2.1\adapterApp.pdb
