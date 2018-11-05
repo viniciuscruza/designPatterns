@@ -9,11 +9,11 @@ namespace observerApp
         {
             Subject sub = Subject.GetSubject();
 
-            MobileUser mUser = new MobileUser();
-            DesktopUser dUser = new DesktopUser();
+            MobileUser mUser = new MobileUser("Dave Grohl");
+            DesktopUser dUser = new DesktopUser("Taylor Hawkins");
 
-            sub.SetState("Seja bem vindo ao nosso App!");
-            sub.SetState("Confira nossas promoções");
+            sub.SetState("seja bem vindo ao nosso App!");
+            sub.SetState("confira nossas promoções.");
 
         }
     }
